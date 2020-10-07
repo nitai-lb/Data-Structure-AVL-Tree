@@ -1,9 +1,9 @@
 # Data-Structure-AVL-Tree
 This repo contains a fully functioned and programmed AVL Tree structure including UML file.
 
-=
-File Description
-=
+
+**File Description
+
 BinarySeachTree.java - An abstract class that implements Binary Search Tree, and is inherited by AvlTree.
 
 AvlTree.java - A class that creates and manages an AVL Tree.
