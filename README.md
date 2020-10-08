@@ -1,5 +1,5 @@
 # Data-Structure-AVL-Tree
-This repo contains a fully functioned AVL Tree structure including UML file.
+This repo contains a fully functioned AVL Tree package including UML file.
 
 
 **Source File Description**
