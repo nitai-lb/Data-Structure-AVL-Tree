@@ -10,4 +10,4 @@ AvlTree.java - A class that creates and manages an AVL Tree.
 
 Node.java - A class that represents a nodes instances of the tree.
 
-BTreePrinter.java - A class that print out a binary tree after entering a root node as an argument.
+BTreePrinter.java - A class that print out a binary tree after entering a root node as an argument. (This file is not part of the main package)
